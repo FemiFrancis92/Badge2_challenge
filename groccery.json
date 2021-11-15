@@ -1,0 +1,104 @@
+{
+    "item" : [
+        {
+            "SlNo" : 1,
+            "ItemName" : "Rice",
+            "Quantity" :"10",
+            "Unit" : "kg",
+            "Department" : "Groccery",
+            "Notes" : "Matta"
+                           
+        },
+        {
+            "SlNo" : 2,
+            "ItemName" : "Onion",
+            "Quantity" :2,
+            "Unit" : "kg",
+            "Department" : "Veggies",
+            "Notes" : "Fresh"
+                           
+        },
+        {
+            "SlNo" : 3,
+            "ItemName" : "Salt",
+            "Quantity" :1,
+            "Unit" : "kg",
+            "Department" : "Groccery",
+            "Notes" : "Iodin"
+                                
+        },
+        {
+            "SlNo" : 4,
+            "ItemName" : "Handwash",
+            "Quantity" :500,
+            "Unit" : "ml",
+            "Department" : "Stationary",
+            "Notes" : "Dr.Wash"
+                                
+        },
+        {
+            "SlNo" : 5,
+            "ItemName" : "Oil",
+            "Quantity" :2,
+            "Unit" : "kg",
+            "Department" : "Stationary",
+            "Notes" : "Sunflower"
+                                
+        },
+        {
+            "SlNo" : 6,
+            "ItemName" : "Tomato",
+            "Quantity" :1,
+            "Unit" : "kg",
+            "Department" : "Veggies",
+            "Notes" : "Fresh"
+                                
+        },
+        {
+            "SlNo" : 6,
+            "ItemName" : "Fish",
+            "Quantity" :1,
+            "Unit" : "kg",
+            "Department" : "Fish",
+            "Notes" : "Fresh"
+                                
+        },
+        {
+            "SlNo" : 7,
+            "ItemName" : "Wheat flour",
+            "Quantity" :3,
+            "Unit" : "kg",
+            "Department" : "Grain",
+            "Notes" : "Aasirvad"
+                                
+        },
+        {
+            "SlNo" : 8,
+            "ItemName" : "Orange",
+            "Quantity" :2,
+            "Unit" : "kg",
+            "Department" : "Fruit",
+            "Notes" : "Fresh"
+                                
+        },
+        {
+            "SlNo" : 9,
+            "ItemName" : "Dates",
+            "Quantity" :500,
+            "Unit" : "gm",
+            "Department" : "Dry Fruits",
+            "Notes" : "Good Quality"
+                                
+        },
+        {
+            "SlNo" : 10,
+            "ItemName" : "Green Tea",
+            "Quantity" :1,
+            "Unit" : "Pack",
+            "Department" : "Tea powder",
+            "Notes" : "Lipton"
+                                
+        }
+    ]
+
+}
